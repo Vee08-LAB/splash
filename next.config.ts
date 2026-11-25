@@ -1,9 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  
+  // THIS IS THE FIX: Stops Turbopack from aggressively bundling Prisma, 
+  // which breaks TypeScript resolution during `next build`.
+  serverExternalPackages: ["@prisma/client", "prisma"],
+  
   turbopack: {
     rules: {
       "*.css": {

@@ -1,0 +1,117 @@
+
+
+=== FILE: ./.env === -exec cat ./.env
+
+
+=== FILE: ./.env.example === -exec cat ./.env.example
+
+
+=== FILE: ./.gitattributes === -exec cat ./.gitattributes
+
+
+=== FILE: ./.gitignore === -exec cat ./.gitignore
+
+
+=== FILE: ./AGENTS.md === -exec cat ./AGENTS.md
+
+
+=== FILE: ./eslint.config.mjs === -exec cat ./eslint.config.mjs
+
+
+=== FILE: ./next-env.d.ts === -exec cat ./next-env.d.ts
+
+
+=== FILE: ./next.config.ts === -exec cat ./next.config.ts
+
+
+=== FILE: ./package.json === -exec cat ./package.json
+
+
+=== FILE: ./prisma/schema.prisma === -exec cat ./prisma/schema.prisma
+
+
+=== FILE: ./prisma.config.ts === -exec cat ./prisma.config.ts
+
+
+=== FILE: ./public/file.svg === -exec cat ./public/file.svg
+
+
+=== FILE: ./public/globe.svg === -exec cat ./public/globe.svg
+
+
+=== FILE: ./public/next.svg === -exec cat ./public/next.svg
+
+
+=== FILE: ./public/vercel.svg === -exec cat ./public/vercel.svg
+
+
+=== FILE: ./public/window.svg === -exec cat ./public/window.svg
+
+
+=== FILE: ./README.md === -exec cat ./README.md
+
+
+=== FILE: ./splash_dump.txt === -exec cat ./splash_dump.txt
+
+
+=== FILE: ./src/app/favicon.ico === -exec cat ./src/app/favicon.ico
+
+
+=== FILE: ./src/app/globals.css === -exec cat ./src/app/globals.css
+
+
+=== FILE: ./src/app/layout.tsx === -exec cat ./src/app/layout.tsx
+
+
+=== FILE: ./src/app/page.tsx === -exec cat ./src/app/page.tsx
+
+
+=== FILE: ./src/components/ProductCard.tsx === -exec cat ./src/components/ProductCard.tsx
+
+
+=== FILE: ./src/generated/prisma/browser.ts === -exec cat ./src/generated/prisma/browser.ts
+
+
+=== FILE: ./src/generated/prisma/client.ts === -exec cat ./src/generated/prisma/client.ts
+
+
+=== FILE: ./src/generated/prisma/commonInputTypes.ts === -exec cat ./src/generated/prisma/commonInputTypes.ts
+
+
+=== FILE: ./src/generated/prisma/enums.ts === -exec cat ./src/generated/prisma/enums.ts
+
+
+=== FILE: ./src/generated/prisma/internal/class.ts === -exec cat ./src/generated/prisma/internal/class.ts
+
+
+=== FILE: ./src/generated/prisma/internal/prismaNamespace.ts === -exec cat ./src/generated/prisma/internal/prismaNamespace.ts
+
+
+=== FILE: ./src/generated/prisma/internal/prismaNamespaceBrowser.ts === -exec cat ./src/generated/prisma/internal/prismaNamespaceBrowser.ts
+
+
+=== FILE: ./src/generated/prisma/models.ts === -exec cat ./src/generated/prisma/models.ts
+
+
+=== FILE: ./src/generated/prisma/query_engine-windows.dll.node === -exec cat ./src/generated/prisma/query_engine-windows.dll.node
+
+
+=== FILE: ./src/lib/prisma.ts === -exec cat ./src/lib/prisma.ts
+
+
+=== FILE: ./src/prisma/contract.d.ts === -exec cat ./src/prisma/contract.d.ts
+
+
+=== FILE: ./src/prisma/contract.json === -exec cat ./src/prisma/contract.json
+
+
+=== FILE: ./src/prisma/contract.prisma === -exec cat ./src/prisma/contract.prisma
+
+
+=== FILE: ./src/prisma/db.ts === -exec cat ./src/prisma/db.ts
+
+
+=== FILE: ./src/prisma/schema.prisma === -exec cat ./src/prisma/schema.prisma
+
+
+=== FILE: ./tsconfig.json === -exec cat ./tsconfig.json
